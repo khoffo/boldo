@@ -1,0 +1,675 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600&family=Open+Sans:wght@300;500;600&display=swap');
+
+
+
+.section{
+    background-color: #0A2640;
+    background-image:url(Ellipse\ 9.png);
+    background-position-x: right;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    height: 50rem;
+}
+.navigation{ 
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid orange; */
+}
+.box{
+    justify-content: space-between;
+    display: flex;
+    /* outline: 1px solid white; */
+    width:80%;
+    margin-left: 10%;
+    /* border: 1px solid green; */
+}
+.box img{
+    /* border: 1px solid green; */
+    width: 12rem;
+    height: 3rem;
+    margin-top: 2.1rem;
+}
+.mango{
+    display: flex;
+    justify-content: space-between;
+    width: 25vw;
+    /* border: 1px solid red; */
+    margin-top: 2rem;
+}
+.mango a{
+    color: white;
+    text-decoration: none;
+    margin-top: 1px;
+    /* outline: 1px solid indigo; */
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0.5rem;
+}
+.log{
+    width: 6rem;
+    height: 2rem;
+    border-radius: 2rem;
+    margin-top: 0.2px;
+}
+.merge{
+    /* border: 1px solid red; */
+    display: flex;
+    margin-left: 10%;
+    width: 80%;
+    margin-top: 4rem;
+}
+.text h1{
+    /* border: 1px solid rgb(132, 232, 132); */
+    font-size: 2.6rem;
+    font-weight: 300;
+    width:29rem ;
+    color: white;
+    margin-bottom: 0;
+    font-family: 'Manrope', sans-serif;
+
+}
+.text p{
+    /* border: 1px solid yellow; */
+   color: white;
+   font-size: small;
+   margin-bottom: 2rem;
+   line-height: 1.2rem;
+}
+.buy{
+    width: 11rem;
+    height: 3rem;
+    border-radius: 3rem;
+    color: black;
+    background-color: rgb(136, 235, 136);
+    font-weight: 100;
+}
+.explore{
+    border: 2px solid white;
+    background-color: #0A2640;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 3rem;
+    color: white;
+}
+.img{
+    width: 38rem;
+    margin-left: 8rem;
+    /* border: 1px solid red; */
+}
+.img img{
+    width:100%;
+}
+.logo{
+    /* border: 1px solid indigo; */
+    width: 80%;
+    margin-left: 10%;
+}
+.logo img{
+    width:100%
+}
+
+.tolu{
+    /* border: 1px solid red; */
+    text-align: center;
+}
+.tolu h1{
+    /* border: 1px solid red; */
+    font-size: 2.6rem;
+    font-family: 'Manrope', sans-serif;
+
+}
+.google{
+    margin-top: 5rem;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid red; */
+    margin-top: 5rem;
+}
+.icons p{
+    color: #777777;
+    
+}
+.design{
+    display: flex;
+    border-bottom: 2px solid #0A2640;
+    width: 8rem;
+}
+.design img {
+    /* border: 1px solid greenyellow; */
+    height: 2rem;
+    margin-top: 0.8rem;
+}
+.section-1{
+    display: flex;
+    /* border: 1px solid green; */
+}
+.group{
+    display: flex;
+    /* border: 1px solid orangered; */
+    
+}
+.group img{
+        /* border: 1px solid blue; */
+        width: 1rem;
+        height: 1.2rem;
+        margin-top: 1rem;
+        margin-right: 1rem;
+}
+.blue{
+    display: flex;
+}
+.blue img{
+    /* border: 1px solid blue; */
+    width: 1rem;
+    height: 1.2rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+.green{
+    display:flex ;
+}
+.green img{
+    /* border: 1px solid blue; */
+    width: 1rem;
+    height: 1.2rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+.start{
+    /* border: 1px solid red; */
+    width: 8rem;
+    height: 2rem;
+    border-radius: 3rem;
+    background-color:#0A2640 ;
+    color: white;
+    margin-top: 1rem;
+}
+.rectangle{
+    width: 22rem;
+    margin-top: 5rem;
+}
+.group{
+    margin-top:-15rem;
+    width: 20rem;
+    height: 23rem;
+    /* border: 1px solid red; */
+}
+.connect{
+    /* border: 1px solid red; */
+    margin-left: 10rem;
+    margin-top: 12rem;
+}
+.connect h1{
+    font-family: 'Manrope', sans-serif;
+
+}
+.font{
+    margin-left: 10rem;
+    margin-top: 3rem;
+}
+.OG{
+    /* margin-bottom: ; */
+    padding-bottom: 10rem;
+}
+.section-2{
+    /* display: flex; */
+    /* border: 1px solid red; */
+    margin-left: 5rem;
+    margin-top: 6rem;
+}
+.page{
+    font-size: 1rem;
+    font-family: 'Manrope', sans-serif;
+    /* border:1px solid black; */
+    display: flex;
+    justify-content: space-between;
+}
+.green{
+    display: flex;
+    /* border: 1px solid white; */
+    width: 25rem;
+    box-shadow: 0px 1px 10px 0px #0000001A;
+}
+.green img{
+    margin-left: 1rem;
+}
+.greendark{
+    background-color: #0A2640;
+    display: flex;
+    /* border: 1px solid white; */
+    width: 25rem;
+    box-shadow: 0px 1px 10px 0px #0000001A;
+    color: white;
+    border-radius: 0.2rem;
+}
+.greendark img{
+    width: 1.3rem;
+    height: 1.3rem;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+.connect2{
+    margin-top: 3rem;
+    margin-left: 1rem;
+    /* border: 1px solid black; */
+    /* margin-right: 4rem; */
+    /* margin-left: 0rem; */
+}
+.connect2 h1{
+    margin-bottom: 2rem;
+    margin-bottom: 10rem;
+}
+.brave{
+    /* border: 1px solid blue; */
+    /* margin-right: 0rem; */
+    /* padding-right:0rem ; */
+    width: 32rem;
+    
+}
+.herry{
+    /* border: 1px solid red; */
+    width: 20rem;
+}
+.code{
+    margin-top: -12rem;
+    width: 20rem;
+}
+.word{
+    background-color: #0A2640;
+    height: 70rem;
+}
+.network{
+    /* border: 1px solid red; */
+    
+}
+.novel{
+    /* border: 1px solid white; */
+    display: flex;
+}
+.novel h1{
+    /* border: 1px solid white; */
+    margin-top: 6rem;
+    margin-left: 8rem;
+    font-family: 'Manrope', sans-serif;
+    color: white;
+
+}
+.web{
+    /* border: 1px solid yellow; */
+    margin-left: 30rem;
+    margin-top: 10rem;
+    height: 5rem;
+}   
+.web img{
+    margin-left: 1rem;
+}
+.novel img{
+    /* border:1px solid yellow; */
+    /* margin-left: 15rem; */
+    /* width: 2rem; */
+    /* height: 2rem; */
+}
+.potter{
+    display: flex;
+    /* border: 1px solid orangered; */
+    justify-content: center;
+    margin-top: 10rem;
+    height: 40rem;
+    width: 80%;
+    margin-left: 10%;
+}
+.buyer{
+    border: 1px solid white;
+    background-color: white;
+    margin-right: 2rem;
+    width: 22rem;
+    height: 18rem;
+    border-radius: 1rem;
+}
+.buyer h2{
+    margin-left: 2rem;
+}
+.snap{
+    /* border: 1px solid red; */
+    display: flex;
+    width: 15rem;
+    margin-left: 1rem;
+}
+.snap img{
+    /* border: 1px solid green; */
+    width: 3rem;
+    height: 3rem;
+    /* justify-content: space-between; */
+}
+.snap h6{
+    /* font-size: 1rem; */
+    /* margin-top: 2rem; */
+}
+.snap p{
+    /* font-size: 0.8rem; */
+    /* margin-bottom: 10rem; */
+    /* padding: 0; */
+}
+.buyer2{
+    border: 1px solid white;
+    background-color: white;
+    /* margin-top: 5rem; */
+    width: 22rem;
+    height: 22rem;
+    border-radius: 1rem;
+}
+.buyer2 h2{
+    margin-left: 2rem;
+}
+.buyer{
+    border: 1px solid white;
+    background-color: white;
+    /* margin-top: 5rem; */
+    width: 22rem;
+    height: 18rem;
+    border-radius: 1rem;
+}
+.buyer h2{
+    margin-left: 2rem;
+ }   
+.buyer3{
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 2rem;
+    width: 22rem;
+    height: 20rem;
+    border-radius: 1rem;
+}
+.buyer3 h2{
+    margin-left: 2rem;
+}
+
+.buyer p{
+    /* border: 1px solid red; */
+    /* margin-left: 3rem; */
+    /* margin-bottom: rem; */
+}
+.buyer p{
+    /* margin-left: 4rem; */
+    /* margin-bottom: 5rem; */
+}
+.givers h6{
+    font-size: 1rem;
+    /* margin-top: 2rem; */
+    margin-bottom: 0;
+}
+.givers p{
+    font-size: 0.8rem;
+    /* margin-top: 5rem; */
+}
+.givers{
+    /* border: 1px solid yellow; */
+    height: 2rem;
+    margin-top: 0rem;
+    padding: 0;
+}
+.man{
+    /* border: 1px solid olivedrab; */
+    height: 4rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+}
+.man h6{
+    font-size: 1rem;
+    margin-top: 2rem;
+    margin: 0;
+    padding: 0;
+    margin-top: 1rem;
+}
+.man p{
+    font-size: 0.8rem;
+    margin-bottom: 3rem;
+    padding: 0;
+}
+.gry h6{
+    font-size: 1rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin: 0;
+    padding: 0;
+    margin-top: 1rem;
+
+}
+.gry p{
+    font-size: 0.8rem;
+    margin-bottom: 3rem;
+    padding: 0; 
+}
+.city{
+    /* border: 1px solid red; */
+    margin-top: 5rem;
+    margin-left: 4rem;
+}
+.merge4{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    height: 20rem;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    font-family: 'Manrope', sans-serif;
+}
+.we-con{
+    /* border: 1px solid red; */
+    margin-bottom: 15rem;
+}
+.english{
+    border-bottom: 2px solid #0A2640;
+    /* border: 1px solid red; */
+    display: flex;
+    align-items: center;
+    width: 24rem
+    
+}
+.we-con2{
+    /* border: 1px solid green; */
+    margin-right: 10rem;
+    width: 20rem;
+    /* border-bottom: 2px solid #0A2640; */
+}
+.we-con2 img{
+    /* border: 1px solid red; */
+    /* margin-left: 20rem; */
+    /* margin-bottom: 5rem; */
+}
+.we-con2 p{
+    /* border-bottom: 2px solid #0A2640; */
+    height: 2rem;
+    width: 25rem;
+}
+.bat{
+    /* border: 1px solid red; */
+    text-align: center;
+}
+.bat h1{
+    /* border: 1px solid green; */
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400;
+    margin-bottom: 4rem;
+    /* justify-content: center; */
+}
+.bat2 p{
+    color: #777777;
+    /* font-weight: 400; */
+}
+.live{
+    color: #777777;
+    font-weight: 400;
+}
+.beta{
+    color: #777777;
+    font-weight: 400;
+}
+.run{
+    /* border: 1px solid red; */
+    margin-right: 8rem;
+}
+.rat{
+    display: flex;
+    justify-content: space-between;
+}
+.prince{
+    margin-top: 2.5rem;
+    display: flex;
+    align-items: center;
+}
+.rat1{
+    margin-left: 8rem;
+}
+.rat1 h4{
+    font-weight: 400;
+}
+.alive2{
+    display: flex;
+    align-items: center;
+}
+.run2{
+    display: flex;
+    align-items: center;
+}
+.wale{
+    color: #777777;
+    font-weight: 400;
+}
+.alive h4{
+    font-weight: 400;
+}
+.run h4{
+    font-weight: 400;
+}
+.sam{
+    /* border: 1px solid red; */
+    margin-top: 5rem;
+    margin-left: 49%;
+    border-radius: 2rem;
+    width: 8rem;
+    height: 3rem;
+    /* padding: 2rem; */
+}
+.End{
+    background-color: #0A2640;
+    background-image:url(Ellipse\ 9.png);
+    background-position-x: right;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    height: 50rem;
+    width: 80%;
+    height: 20rem;
+    margin-left: 10%;
+}
+.mail{
+    width: 18rem;
+    height: 3rem;
+    border-radius: 3rem;
+    /* text-align: left; */
+}
+.body{
+    margin-left: 16rem;
+    margin-top: 5rem;
+    border: 1px solid red;
+    width: 30rem;
+    text-align: center;
+}
+.body h1{
+    color: white;
+    font-family: Manrope;
+    font-weight: 400;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+.dada{
+    border-radius: 3rem;
+    height: 3rem;
+    width: 8rem;
+    background-color: #65E4A3;
+}
+.canvas{
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid red; */
+    margin-top: 8rem;
+    margin-left: 8rem;
+}
+.canvas2{
+    /* border: 1px solid blue; */
+    /* margin-left: 2rem; */
+}
+.canvas img{
+    /* border: 1px solid red; */
+    /* width: 4rem; */
+    /* height: 2rem; */
+}
+.canvas2 p{
+    color: #777777;
+    font-weight: 400;
+    /* border: 1px solid red; */
+    margin-top: 2rem;
+}
+.land{
+    /* border: 1px solid blue; */
+    color: #777777;
+    font-weight: 400;
+    list-style-type: none;
+    /* margin-right: 10rem; */
+    line-height: 2rem;
+}
+.media{
+    /* border: 1px solid red; */
+    margin-top: 3rem;
+     color: #777777;
+}
+.product{
+    list-style-type: none;
+    /* border: 1px solid red; */
+    margin-right: 5rem;
+}
+.product h6{
+    margin-left: 2.5rem;
+    font-weight: 700;
+    font-family: 'Manrope', sans-serif;
+    width: 150px;
+    font-size: 1rem;
+}
+.hire{
+    list-style-type: none;
+    line-height: 2rem;
+    margin-bottom: 2rem;
+    color: #777777;
+}
+.source{
+    list-style-type: none;
+    line-height: 2rem;
+    color: #777777;
+}
+.back{
+    /* border: 1px solid red; */
+    margin-left: 2rem;
+    /* width: 2rem; */
+    background-color: #65E4A3;
+    border-radius: 4rem;
+    padding: 0.5rem;
+    color: black;
+}
+.body input{
+    border-radius: 50px;
+    height: 2rem;
+    width: 17rem;
+}
+
+
+
+
+
+
+
